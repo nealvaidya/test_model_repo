@@ -9,9 +9,11 @@ We have two tutorials explaining how you can customize and export our cool new m
 ### Parameter Efficient Fine-tuning with LoRA
 
 Here's a short explanation of the notebook.
-Get started here!
+
+[Get started here!](./lora.ipynb)
 
 ### Supervised Finetuning (SFT) 
 
 Here's a short explanation of the notebook. 
-Get Started Here!
+
+[Get Started Here!](./SFT.ipynb)
